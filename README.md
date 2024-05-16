@@ -5,10 +5,12 @@
 
 ### Exercício 1
 
+```
 Escreva um programa em C que permita ao usuário
 escolher, através de um menu de opções, o tipo de
 busca que ele deseja realizar em certo vetor de dados
 (linear, binária ou ternária).
+```
 
 ### Exercício 2
 
